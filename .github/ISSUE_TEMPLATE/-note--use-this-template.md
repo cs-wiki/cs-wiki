@@ -1,5 +1,5 @@
 ---
-name: Use this template
+name: "[NOTE] Use this template"
 about: 'Have a nice day ! '
 title: ''
 labels: ''
